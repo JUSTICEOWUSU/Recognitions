@@ -20,7 +20,7 @@ function Logo() {
           <Scene />
       ) : (
         <img
-          src="istockphoto-1197070997-612x612-removebg-preview.png"
+          src="/istockphoto-1197070997-612x612-removebg-preview.png"
           alt=""
           className="w-auto h-auto"
         />

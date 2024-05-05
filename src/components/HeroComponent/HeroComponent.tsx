@@ -1,16 +1,14 @@
 "use client";
-import React, { useState, useEffect, useRef } from "react";
-// @ts-ignore
+import React from "react";
 import Scene from "../Canvas/Canvas";
-// @ts-ignore
-import BIRDS from "vanta/dist/vanta.net.min";
+
 
 export default function Hero() {
   return (
     <>
       <div
         style={{ background: 0x0, position: "relative", overflow: "hidden" }}
-        className="h-[60vh] w-screen"
+        className="h-[60vh] w-screen "
       >
         <div
           style={{
