@@ -9,7 +9,7 @@ function Recognitions() {
           imgUrl="istockphoto-1496672997-612x612.jpg"
           title="FACE RECOGNITION"
           width="md:w-2/4 lg:w-2/4"
-          url='faceid'
+          url='identity'
         />
 
         <Card
